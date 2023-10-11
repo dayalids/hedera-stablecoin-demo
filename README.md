@@ -181,6 +181,8 @@ Learn more about them in their README:
 
 # Installation
 
+Firstly, clone the repo to your local directory and unzip all the zipped folders. Next step - 
+
 In a terminal:
 
 ```
