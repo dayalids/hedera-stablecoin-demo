@@ -1,7 +1,5 @@
 Common errors when working with stable coin studio --
 
-
-
 1. Error when creating a new stable coin : 
 
 i. Check your account balance and ensure you have enough HBars (at least 10 to begin with)
